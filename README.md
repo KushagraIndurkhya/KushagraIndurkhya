@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h3>
-🔭I'm currently a sophomore at <a href="www.iiitr.ac.in">Indian Institute of Information Technology,Raichur</a> pursuing a bachelors in CSE.<br>
+🔭I'm currently a sophomore at <a href="https://www.iiitr.ac.in/">Indian Institute of Information Technology,Raichur</a> pursuing a bachelors in CSE.<br>
 🌱I'm currently exploring various technologies and working on various mini projects.<br>
 😄I'm always looking for new and innovative ways to solve problems & always open for collaborations and new experiences<br>
 💬Ask me about: Anything, always open for interesting and thought provoking conversations.<br>
